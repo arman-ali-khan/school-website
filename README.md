@@ -1,6 +1,6 @@
 # Simple School Website
 
- [Live Server](https://cozy-fenglisu-3c265b.netlify.app/)).
+ [Live Server](https://cozy-fenglisu-3c265b.netlify.app/)
 
 
 ### Features
